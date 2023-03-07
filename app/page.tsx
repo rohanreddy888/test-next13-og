@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: "https://www.quillaudits.com/tools/hackerboard",
     description:
       "Get statistics and deep analysis of recent crypto hacks, vulnerabilities, and attack vectors around the web3 world.",
-    image: "https://quillaudits.com/api/og?amount=6B&number=1000",
+
     images: [
       {
         url: "https://quillaudits.com/api/og?amount=6B&number=1000",
